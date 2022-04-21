@@ -1,5 +1,9 @@
-//An application for planning daily and weekly exercise and diets
-//By Clark Biard, 2017
+/*
+FitnessPlanningApp
+An application for planning diets and excercises
+By Clark Biard, 2017
+cvbiard@hotmail.com, 425-595-7903
+*/
 
 
 #include "header.hpp"
